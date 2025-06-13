@@ -1,3 +1,6 @@
+git config --global i18n.commit.encoding utf-8
+git config --global i18n.logoutputencoding utf-8
+
 @echo off
 :: 批处理脚本：将本地文件推送到 GitHub 仓库
 :: 使用前请确保：
